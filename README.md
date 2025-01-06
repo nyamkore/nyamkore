@@ -31,7 +31,7 @@ As a beginner bug hunter, I focus on learning and applying the **OWASP Top 10 vu
 ### **Connect with Me**
 - 🐙 **GitHub**: [@nyamkore](https://github.com/nyamkore)
 - 🐦 **Twitter**: [@DwayneCyberSec](https://twitter.com/DwayneCyberSec) 
-- ✉️ **Email**: [nyamkore@gmail.com](sauveadeklerk2gmail.com)
+- ✉️ **Email**: [nyamkore@gmail.com](sauveadeklerk@gmail.com)
 
 ---
 
